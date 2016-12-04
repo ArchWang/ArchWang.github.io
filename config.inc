@@ -1,0 +1,10 @@
+<%
+const path	   = "./"
+const listfilename = "c.asp"
+const key1      = "w"  'ËÑË÷¹Ø¼ü×ÖµÄIDÃû³Æ
+const key2      = "t"  'ËÑË÷µÄÀà±ð¹Ø¼ü×ÖIDÃû³Æ
+const key3      = "p"	'·­Ò³µÄ¹Ø¼ü×ÖIDÃû³Æ
+const siteURL   = "www.zhlm.net"
+const siteName  = "¶þ¶ÈÍøerdu.com.cn"
+const siteTitle = "ÔÚÏßÌý¸è,Ãâ·ÑÒôÀÖÊÔÌýÏÂÔØ,mp3ÏÂÔØ,ÒôÀÖ¸èÇú¸è´ÊËÑË÷"
+%>
